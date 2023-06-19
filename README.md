@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Muhammet akkan it is Havelsan homework.
-- 👀 I’m interested in C# developer and Blockchain
-- 🌱 I’m currently learning C# ,ASP NET CORE and .NET CORE
-- 💞️ I’m looking to collaborate on idea,blochchain helpers and study
+- 👋 Hi, I’m Muhammet Akkan.
+- 👀 I’m interested in C#, Html,Css,JS,MERN technology.
+- 🌱 I’m currently learning Html,Css,Sass,JS,MERN
 - 📫 How to reach me at the moment there.
 
 <!---
